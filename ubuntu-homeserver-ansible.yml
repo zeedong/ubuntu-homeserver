@@ -1,0 +1,12 @@
+---
+
+- name: Ubuntu desktop environment playbook
+  hosts: localhost
+  roles:
+    # Common roles
+    # - { role: common, become: true }
+    # Server roles
+    # - { role: docker, become: true }
+    # - { role: portainer, become: true }
+    
+    
